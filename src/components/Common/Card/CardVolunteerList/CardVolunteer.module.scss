@@ -1,7 +1,10 @@
 @use '@styles/variables' as *;
 
 .container {
-	min-width: 352px;
+	width: 100%;
+	flex: 1 1 312px;
+	max-width: 352px;
+	min-width: 312px;
 }
 
 .anchorWrapper {
