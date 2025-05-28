@@ -62,9 +62,12 @@ export {
 	CardNumbers,
 } from './components/Common/Card';
 
+export { CardVolunteerList} from './components/Common/Card/CardVolunteerList/CardVolunteerList';
+
 export {
 	User,
 	Avatar,
+	UserLarge,
 	UserLargeVertical,
 	UserTaggedMedium,
 	UserCompanyLarge,
